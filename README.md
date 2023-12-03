@@ -46,7 +46,7 @@ We plan to engage with the community. Communicate our changes, rationale, and en
 Some of the Bennifits We plan to address with this project:
 
 Energy Efficiency:
-One of the primary motivations for transitioning to PoS is improved energy efficiency compared to PoW. Position your fork as an eco-friendly alternative, catering to users and projects concerned about the environmental impact of traditional PoW cryptocurrencies.
+One of the primary motivations for transitioning to PoS is improved energy efficiency compared to PoW. Making this Blockchain as an eco-friendly alternative, catering to users and projects concerned about the environmental impact of traditional PoW cryptocurrencies.
 
 Staking Mechanisms:
 Leverage the staking capabilities of PoS to introduce novel staking mechanisms. This might include different ways users can participate in consensus, earn rewards, and contribute to network security.
