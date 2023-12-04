@@ -1,4 +1,4 @@
-Novix-Plus Core integration/staging tree
+Bitcoin Np -Novix-Plus Core integration/staging tree
 =====================================
 
 What is Novix-Plus Core?
