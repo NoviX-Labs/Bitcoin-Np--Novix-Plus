@@ -1,3 +1,4 @@
+// Copyright (c) 2009-2023 BitcoinNp NoviX+ Core developers
 // Copyright (c) 2015-2022 The Bitcoin Core developers
 // Copyright (c) 2017 The Zcash developers
 // Distributed under the MIT software license, see the accompanying
