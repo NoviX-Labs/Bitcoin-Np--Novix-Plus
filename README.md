@@ -1,3 +1,4 @@
+![Np (2)](https://github.com/NoviX-Labs/Bitcoin-Np--Novix-Plus/assets/144187427/87d12412-a88e-42e4-b17c-36fe66736635)
 Bitcoin Np -Novix-Plus Core integration/staging tree
 =====================================
 
